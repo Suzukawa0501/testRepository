@@ -1,5 +1,5 @@
 # testRepository
 テスト用
 
-## 作製者
+## 作成者
 鈴川
